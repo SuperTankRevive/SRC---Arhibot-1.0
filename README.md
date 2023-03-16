@@ -1,2 +1,3 @@
-# -SRC-Arhibot-1.0
-Это исходный код самой первой версии цикла трояна Arhibot.exe / This is source code of my first version of malware Arhibot.exe
+# 💣 Arhibot.exe
+⚠ I wouldn't be responsible for any damages created by this program.
+The source code has been rewritten, because i lost project with this software.
